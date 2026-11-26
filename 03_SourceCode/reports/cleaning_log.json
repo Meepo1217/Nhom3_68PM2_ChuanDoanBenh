@@ -1,0 +1,20 @@
+{
+  "total_raw_rows": 4920,
+  "total_raw_columns": 18,
+  "total_unique_diseases": 41,
+  "total_duplicate_rows": 4616,
+  "total_unique_records": 304,
+  "min_symptoms_per_patient": 3,
+  "max_symptoms_per_patient": 17,
+  "average_symptoms_per_patient": 7.45,
+  "raw_symptom_string_count": 131,
+  "stripped_symptom_string_count": 131,
+  "unmatched_symptoms_with_severity": [
+    "dischromic _patches",
+    "foul_smell_of urine",
+    "spotting_ urination"
+  ],
+  "final_feature_count": 131,
+  "train_sample_count": 243,
+  "test_sample_count": 61
+}

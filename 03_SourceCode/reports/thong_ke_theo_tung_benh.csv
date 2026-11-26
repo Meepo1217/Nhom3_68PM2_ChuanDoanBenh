@@ -1,0 +1,42 @@
+Disease,unique_record_count,average_symptom_count,average_severity_score
+Common Cold,9,16.11,72.89
+Tuberculosis,9,15.11,71.33
+Hepatitis E,9,12.11,57.89
+Dengue,10,13.1,51.4
+Hypothyroidism,8,12.12,49.75
+Pneumonia,9,10.11,48.0
+Typhoid,9,10.11,46.0
+Hypoglycemia,9,11.11,43.33
+hepatitis A,9,10.11,41.22
+Chicken pox,10,10.1,40.5
+Hepatitis B,9,11.11,40.11
+Hyperthyroidism,9,10.11,39.33
+Diabetes,9,9.11,37.44
+Hepatitis D,10,8.1,32.4
+Malaria,8,7.12,30.0
+Alcoholic hepatitis,8,6.12,29.75
+Migraine,10,8.1,28.8
+Varicose veins,8,6.12,28.0
+Jaundice,9,7.11,27.56
+Bronchial Asthma,7,5.14,24.0
+GERD,7,5.14,24.0
+Peptic ulcer diseae,7,5.14,23.14
+(vertigo) Paroymsal  Positional Vertigo,7,5.14,23.14
+Chronic cholestasis,8,6.12,22.75
+Dimorphic hemorrhoids(piles),6,4.17,21.67
+Hepatitis C,7,5.14,21.43
+Cervical spondylosis,6,4.17,19.17
+Drug Reaction,6,4.17,17.5
+Hypertension,6,4.17,17.5
+Osteoarthristis,7,5.14,17.14
+Urinary tract infection,5,3.2,16.8
+AIDS,5,3.2,16.8
+Impetigo,6,4.17,15.83
+Heart attack,5,3.2,15.2
+Arthritis,6,4.17,15.0
+Gastroenteritis,5,3.2,14.4
+Psoriasis,7,5.14,12.86
+Allergy,5,3.2,12.8
+Fungal infection,5,3.2,11.2
+Paralysis (brain hemorrhage),5,3.2,11.2
+Acne,5,3.2,7.2

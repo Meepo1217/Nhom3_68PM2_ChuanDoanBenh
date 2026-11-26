@@ -1,0 +1,19 @@
+data
+    processed
+    raw
+    README.md
+models
+notebooks
+    01_EDA_Preprocessing.ipynb
+    02_Modeling_Evaluation.ipynb
+reports
+    figures
+    baseline_cv.csv
+    cac_cap_benh_giong_nhau.csv
+    cleaning_log.json
+app.py
+features.py
+predict.py
+README.md
+requirements.txt
+structure.txt
